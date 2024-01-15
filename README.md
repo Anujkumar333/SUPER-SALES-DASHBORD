@@ -1,3 +1,3 @@
 # output
-# photo C:\Users\IPCC 8188985998\Pictures\Screenshots
+ photo C:\Users\IPCC 8188985998\Pictures\Screenshots
 
